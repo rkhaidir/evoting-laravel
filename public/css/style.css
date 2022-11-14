@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&family=Viga&display=swap');
+
+h1,
+h2,
+h3 {
+  font-family: 'Viga';
+  color: #555A6E;
+}
+
+p, ol li {
+  font-family: 'Open Sans';
+  color: #555A6E;
+}
+
+.navbar-brand {
+  font-family: 'Viga';
+}
